@@ -1,0 +1,63 @@
+MANIFEST.in
+README.md
+setup.py
+samples/api_charts.py
+samples/api_orders.py
+samples/api_pipeline.py
+samples/api_regular.py
+samples/api_streaming.py
+samples/__pycache__/config.cpython-38.pyc
+samples/instructions/installation_notes.md
+samples/instructions/installation_notes_version.md
+samples/instructions/photos/auth_code.jpg
+samples/instructions/photos/paste_url.jpg
+samples/instructions/photos/redirect_uri.jpg
+samples/instructions/photos/td_login.jpg
+samples/instructions/photos/td_terms.jpg
+samples/instructions/photos/terminal_dropdown.jpg
+samples/orders/conditional order - trigger - OCO.jsonc
+samples/orders/conditional order - trigger - OTA OCO.jsonc
+samples/orders/conditional order - trigger - OTA.jsonc
+samples/orders/order - limit.jsonc
+samples/orders/order - market.jsonc
+samples/orders/order - option - buy to open.jsonc
+samples/orders/order - option - call back ratio.jsonc
+samples/orders/order - option - sell to close.jsonc
+samples/orders/order - option - vertical.jsonc
+samples/orders/order - stop limit.jsonc
+samples/orders/order - stop.jsonc
+samples/orders/order - trailing stop limit.jsonc
+samples/orders/order - trailing stop.jsonc
+samples/resources/Creating a TD Ameritrade Developer Account.pdf
+samples/responses/sample_actives.json
+samples/responses/sample_chart_futures.json
+samples/responses/sample_chart_history_futures.json
+samples/responses/sample_get_quotes_forex.jsonc
+samples/responses/sample_level_one_forex.json
+samples/responses/sample_level_one_futures.json
+samples/responses/sample_level_one_futures_options.json
+samples/responses/sample_level_one_options.json
+samples/responses/sample_level_one_quotes.json
+samples/responses/sample_level_two_nasdaq.json
+samples/responses/sample_level_two_options.json
+samples/responses/sample_level_two_quotes.json
+samples/responses/sample_level_two_total_view.json
+samples/responses/sample_multi_response.json
+samples/responses/sample_news_headline.json
+samples/responses/sample_timesale_equity.json
+samples/responses/sample_timesale_futures.json
+td/__init__.py
+td/client.py
+td/defaults.py
+td/enums.py
+td/fields.py
+td/option_chain.py
+td/orders.py
+td/stream.py
+td/utils.py
+td/watchlist_item.py
+GAIAGs-TD-Ameritrade-Python-api.egg-info/PKG-INFO
+GAIAGs-TD-Ameritrade-Python-api.egg-info/SOURCES.txt
+GAIAGs-TD-Ameritrade-Python-api.egg-info/dependency_links.txt
+GAIAGs-TD-Ameritrade-Python-api.egg-info/requires.txt
+GAIAGs-TD-Ameritrade-Python-api.egg-info/top_level.txt
