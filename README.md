@@ -54,10 +54,10 @@ Additionally, to authenticate yourself using this library, you will need to prov
 
 ## Installation
 
-The project can be found at PyPI, if you'd like to view the project please use this [link](https://pypi.org/project/td-ameritrade-python-api/).
+The project can be found at PyPI, if you'd like to view the project please use this [link](https://pypi.org/project/GAIAGs-TD-Ameritrade-Python-api/).
 
 ```bash
-pip install td-ameritrade-python-api
+pip install GAIAGs-TD-Ameritrade-Python-api
 ```
 
 ## Usage
